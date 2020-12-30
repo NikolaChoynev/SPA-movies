@@ -6,3 +6,4 @@ Application runnig instruction:
 3.Run npm install in the cmd in the folder downloaded.
 4.Start local server on your computer to run the application in web.
 
+The database services are expired and because of that application may not work properly.
